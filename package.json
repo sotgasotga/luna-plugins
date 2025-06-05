@@ -1,6 +1,6 @@
 {
-	"name": "@inrixia/luna-plugins",
-	"description": "Plugins for Tidal Luna",
+	"name": "@inrixia/luna-plugins-mod",
+	"description": "Modified Plugins for Tidal Luna",
 	"author": {
 		"name": "Inrixia",
 		"url": "https://github.com/Inrixia",
@@ -9,7 +9,7 @@
 	"homepage": "https://github.com/Inrixia/luna-plugins",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Inrixia/luna-plugins.git"
+		"url": "https://github.com/sotgasotga/luna-plugins.git"
 	},
 	"type": "module",
 	"scripts": {
